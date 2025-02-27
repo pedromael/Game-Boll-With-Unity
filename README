@@ -1,1 +1,35 @@
-#   Boll
+# Boll Game
+
+## Introduction
+Boll is an exciting and fun game where players navigate a ball through various obstacles to reach the goal. The game is designed to test your reflexes and problem-solving skills.
+
+## Features
+- Multiple levels with increasing difficulty
+- Intuitive controls
+- Engaging graphics and sound effects
+- Leaderboards to compete with friends
+
+## Installation
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/boll-game.git
+    ```
+2. Open the project in Unity:
+    ```sh
+    cd boll-game
+    open -a "Unity" .
+    ```
+
+## How to Play
+- Use the arrow keys or WASD to move the ball.
+- Avoid obstacles and reach the goal to advance to the next level.
+- Collect power-ups to gain special abilities.
+
+## Contributing
+We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contact
+If you have any questions or feedback, feel free to reach out to us at support@bollgame.com.
